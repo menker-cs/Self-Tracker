@@ -1,1 +1,8 @@
-/vs
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+
+/Self Tracker/.vs
+/Self Tracker/bin
+/Self Tracker/obj
