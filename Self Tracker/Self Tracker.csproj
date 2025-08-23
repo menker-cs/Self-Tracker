@@ -7,8 +7,8 @@
     <ProjectGuid>{7EAEF8C0-E814-4532-9E66-E58AEE0A0A39}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Glxy_s_Mod_Template</RootNamespace>
-    <AssemblyName>Glxy%27s Mod Template</AssemblyName>
+    <RootNamespace>Self-Tracker</RootNamespace>
+    <AssemblyName>Self Tracker</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
